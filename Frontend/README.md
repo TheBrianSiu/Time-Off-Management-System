@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+## Time-Off Management System
+This project is a time-off management system that allows employees to submit sick leave and PTO requests. The system also allows managers to approve or reject requests and view employee time-off records in a calendar mode.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Installation
+To run this project on your local machine, you'll need to have Node.js and NPM installed. Once you have those installed, you can clone the repository and run the following commands:
 
-## Available Scripts
+npm install
+npm start
+This will start the development server and open the application in your default web browser.
 
-In the project directory, you can run:
+## Usage
+To use the application, follow these steps:
 
-### `npm start`
+Login to the system as an employee or manager.
+Create a new time-off request by filling out the form.
+Submit the request for approval.
+Wait for the manager to approve or reject the request.
+Managers can view employee time-off records in a calendar mode.
+Contribution Guidelines
+Contributions to this project are welcome. If you would like to contribute, please follow these guidelines:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Fork the repository and create a new branch for your feature or bug fix.
+Make your changes and write tests if applicable.
+Ensure all tests pass by running npm test.
+Submit a pull request with your changes.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Credits
+This project uses the following open-source libraries:
 
-### `npm test`
+React.js
+Tailwind CSS
+Fullcalendar.io
+reacttable
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+This project is licensed under the MIT license. You can find more information in the LICENSE file.
