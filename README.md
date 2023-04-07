@@ -32,13 +32,11 @@ To get started with the Time-Off Management System, follow these steps:
 Clone the repository:
 
 ```bash
-Copy code
 git clone https://github.com/TheBrianSiu/Time-Off-Management-System.git
 ```
 ## Install the dependencies:
 
 ```bash
-Copy code
 dotnet restore
 ```
 
@@ -52,7 +50,6 @@ In Visual Studio, open the Package Manager Console by going to Tools > NuGet Pac
 Run the following command to create the initial database schema:
 
 ```bash
-Copy code
 Update-Database -Context TsystemDbContext
 ```
 
