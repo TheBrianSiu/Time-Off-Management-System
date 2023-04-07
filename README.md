@@ -4,17 +4,17 @@ The Time-Off Management System is a web application that allows employees to req
 ## Features
 
 ### Employees can:
-Request time off for vacation and sick leave
-View their upcoming time off requests
-View their colleagues' time off in a calendar view
+* Request time off for vacation and sick leave
+* View their upcoming time off requests
+* View their colleagues' time off in a calendar view
 
 ### Managers can:
-View time off requests for their team
-View their team's time off in a calendar view
+* View time off requests for their team
+* View their team's time off in a calendar view
 
 ### Administrators can:
-Add or remove employees
-Configure system settings such as holidays and workdays
+* Add or remove employees
+* Configure system settings such as holidays and workdays
 
 ## Technologies Used
 The Time-Off Management System is built using the following technologies:
