@@ -2,25 +2,28 @@
 The Time-Off Management System is a web application that allows employees to request time off for vacation and sick leave. Employees can also view their own and their colleagues' time off in a calendar view. The system is designed to help managers and team members manage their time off more efficiently.
 
 ## Features
-Employees can:
+
+## Employees can:
 Request time off for vacation and sick leave
 View their upcoming time off requests
 View their colleagues' time off in a calendar view
-Managers can:
+
+## Managers can:
 View time off requests for their team
 View their team's time off in a calendar view
-Administrators can:
+
+## Administrators can:
 Add or remove employees
 Configure system settings such as holidays and workdays
-Technologies Used
-The Time-Off Management System is built using the following technologies:
 
-ASP.NET Core 6.0
-C#
-Entity Framework Core
-Microsoft SQL Server
-HTML/CSS/JavaScript
-Tailwind CSS
+## Technologies Used
+The Time-Off Management System is built using the following technologies:
+•ASP.NET Core 6.0
+•C#
+•Entity Framework Core
+•Microsoft SQL Server
+•HTML/CSS/JavaScript
+•Tailwind CSS
 
 
 ## Getting Started
