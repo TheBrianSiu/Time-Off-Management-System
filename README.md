@@ -18,12 +18,12 @@ The Time-Off Management System is a web application that allows employees to req
 
 ## Technologies Used
 The Time-Off Management System is built using the following technologies:
-*ASP.NET Core 6.0
-*C#
-*Entity Framework Core
-*Microsoft SQL Server
-*HTML/CSS/JavaScript
-*Tailwind CSS
+* ASP.NET Core 6.0
+* C#
+* Entity Framework Core
+* Microsoft SQL Server
+* HTML/CSS/JavaScript
+* Tailwind CSS
 
 
 ## Getting Started
